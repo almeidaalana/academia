@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Mooli';
-    background: linear-gradient(pink,purple, violet);
+    background:(pink,purple, violet);
 }
 
 /* secao cabecalho*/
